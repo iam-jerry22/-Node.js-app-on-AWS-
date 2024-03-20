@@ -13,6 +13,7 @@ git clone https://gitlab.com/abhinavdhasmana/ci_cd_demo.git
 #If you are not using nvm, add the actual path like
 # PATH=/home/ubuntu/node/bin:$PATH
 #source /home/ubuntu/.nvm/nvm.sh
+chmod 777 /root/.nvm/nvm.sh
 source /root/.nvm/nvm.sh
 
 # stop the previous pm2
