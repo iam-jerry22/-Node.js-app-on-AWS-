@@ -14,7 +14,8 @@ git clone https://gitlab.com/abhinavdhasmana/ci_cd_demo.git
 # PATH=/home/ubuntu/node/bin:$PATH
 #source /home/ubuntu/.nvm/nvm.sh
 
-source /root/.nvm/nvm.sh
+
+source /home/ubuntu/.nvm/nvm.sh
 
 # stop the previous pm2
 pm2 kill
